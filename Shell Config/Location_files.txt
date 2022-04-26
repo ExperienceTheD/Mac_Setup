@@ -1,0 +1,4 @@
+File locations: 
+
+- fish == /Users/matthias/.config
+- alles andere == /Users/matthias/
